@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hiro Mia</h1>
-<h3 align="center">A passionate Software Automation Engineer from Bangladesh</h3>
+<h1 align="center">I'm Hiro Mia</h1>
+<h3 align="center">A passionate Software Automation Engineer</h3>
 
 - 📫 How to reach me **hiromia006@gmail.com**
 

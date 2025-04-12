@@ -19,7 +19,7 @@ Highly experienced Software Quality Assurance Engineer with **16+ years of exper
 - **Performance Testing**: JMeter, K6
 - **Languages**: Java, SQL
 - **Frameworks**: TestNG, Gradle
-- **Tools**: Git, Jenkins, Docker, TestLink, Jira, YouTrack etc
+- **Tools**: Git, Jenkins, Docker, Jira, YouTrack etc
 - **Security Testing**: OWASP ZAP, sqlmap
 - **CI/CD**: Jenkins
 - **Databases**: MySQL, PostgreSQL, SQL Server
@@ -30,6 +30,7 @@ Highly experienced Software Quality Assurance Engineer with **16+ years of exper
 ## Professional Experience
 **BRAC IT Services Limited** | January 2020 - Present
 * **Technical Lead, SQ** (June 2023 - Present)
+* **Lead SQ** (January 2020 - May 2023)
     * Led BRAC ERP modules QA Team.
     * Defined and drove automated testing strategies and tool sets.
     * Designed, developed, and executed automation scripts using Selenium Webdriver, FluentLenium & Appium.
@@ -39,21 +40,15 @@ Highly experienced Software Quality Assurance Engineer with **16+ years of exper
     * Mentored team members on automation.
     * Conducted training sessions and workshops on Java, Selenium, Fluentlenium, Rest-Assured, Jmeter & Appium
     * Performed load test using Jmeter
-* **Lead SQ** (January 2020 - May 2023)
 
 **IdeaScale Bangladesh** | April 2016 - January 2020
 * **SQAE Team Lead** (January 2019 - December 2019)
 * **Sr. SQAE** (April 2016 - December 2018)
-    * Led QA team
-    * Wrote automated test cases using Selenium Webdriver and Fluentlenium for Web, REST-Assured & Postman for API testing and manual testing.
-    * Investigated customer complaints and non-conformance issues.
-    * Maintained communication with clients and team.
-    * Ensured testing activities met business and user requirements.
-    * Participated in the evaluation and selection of new QA strategies and technologies.
-    * Analyzed risk identifiers and developed, implemented, and improved complex testing.
 
 **SQAE Team Leader at Digital Firefly Marketing BD Ltd** | July 2014 - March 2016
+
 **SQA Manager Progoti Systems Ltd** | February 2014 - July 2014
+
 **Senior QAE at Structured Data Systems Ltd.** | December 2009 - January 2014
 
 **SQA Learning Academy** | March 2022 - Present
@@ -65,7 +60,6 @@ Highly experienced Software Quality Assurance Engineer with **16+ years of exper
     * Successfully trained 250+ students.
 
 ## 👨‍🏫 Speaker & Trainer Highlights
-
 - 🧑‍🏫 **Founder & Trainer at SQA Learning Academy**
 - 🎙 Conducted seminars/workshops at:
   - Shahjalal University of Science and Technology

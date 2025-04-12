@@ -27,7 +27,7 @@ Highly experienced Software Quality Assurance Engineer with **16+ years of exper
 
 ---
 
-## Professional Experience
+## 📚 Professional Experience
 **BRAC IT Services Limited** | January 2020 - Present
 * **Technical Lead, SQ** (June 2023 - Present)
 * **Lead SQ** (January 2020 - May 2023)
@@ -59,6 +59,7 @@ Highly experienced Software Quality Assurance Engineer with **16+ years of exper
     * Collaborated with the Bangladesh SQAE Community for workshops and events.
     * Successfully trained 250+ students.
 
+
 ## 👨‍🏫 Speaker & Trainer Highlights
 - 🧑‍🏫 **Founder & Trainer at SQA Learning Academy**
 - 🎙 Conducted seminars/workshops at:
@@ -69,7 +70,7 @@ Highly experienced Software Quality Assurance Engineer with **16+ years of exper
 
 ---
 
-## Certificates
+## 🏆 Certificates
 
 * **Linkedin Certificates:**
     * Become an Ethical Hacker

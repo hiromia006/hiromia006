@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hiro Mia
 
-🎯 **Technical Lead | Automation Architect | Technical Trainer**  
+🎯 **Technical Lead | Automation Architect | Technical Trainer | Prominent Speaker**  
 📍 Dhaka, Bangladesh | 📧 hiromia006@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/hiromia/)  
 🔗 [GitHub Portfolio](https://github.com/hiromia006) | 📞 WhatsApp: +8801911613242
 

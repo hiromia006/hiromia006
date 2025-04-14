@@ -69,3 +69,7 @@ Highly experienced Software Quality Assurance Engineer with **16+ years of exper
 - 👥 Mentor in the **Bangladesh SQAE Community**
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiromia006&show_icons=true&locale=en&layout=compact" alt="hiromia006" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiromia006&show_icons=true&locale=en" alt="hiromia006" /></p>
+

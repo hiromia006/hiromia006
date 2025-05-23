@@ -9,7 +9,7 @@
 ## 🧪 About Me
 
 
-Highly experienced Software Quality Assurance Engineer with **16+ years of expertise in manual and automation** testing across renowned organizations. Currently serving as a Manual and Automation Trainer at SQA Learning Academy and mentor in the Bangladesh SQAE Community. Renowned for conducting impactful workshops and seminars, with proficiency in diverse tools and frameworks, and a passion for empowering future QA professionals.
+15+ years of experience in SQAE, delivering successful projects globally (South Africa, USA, Europe, Asia) for diverse clients. Proven expertise in automation, testing frameworks, performance testing, Mentor, Trainer & team leadership. Renowned for conducting impactful workshops and seminars, with proficiency in diverse tools and frameworks, and a passion for empowering future QA professionals.
 
 ---
 

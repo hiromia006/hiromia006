@@ -19,7 +19,7 @@
 - **Performance Testing**: JMeter, K6
 - **Languages**: Java, SQL
 - **Frameworks**: TestNG, Gradle
-- **Tools**: Git, Jenkins, Docker, Jira, YouTrack etc
+- **Tools**: Git, Jenkins, Docker, Jira, YouTrack, etc
 - **Security Testing**: OWASP ZAP, sqlmap
 - **CI/CD**: Jenkins
 - **Databases**: MySQL, PostgreSQL, SQL Server
@@ -31,15 +31,15 @@
 **BRAC IT Services Limited** | January 2020 - Present
 * **Technical Lead, SQ** (June 2023 - Present)
 * **Lead SQ** (January 2020 - May 2023)
-    * Led BRAC ERP modules QA Team.
+    * Led the BRAC ERP modules QA Team.
     * Defined and drove automated testing strategies and tool sets.
     * Designed, developed, and executed automation scripts using Selenium Webdriver, FluentLenium & Appium.
     * Estimated, prioritized, planned, and coordinated testing activities.
     * Performed thorough regression testing using automation scripts.
     * Ensured test execution and provided regular feedback.
     * Mentored team members on automation.
-    * Conducted training sessions and workshops on Java, Selenium, Fluentlenium, Rest-Assured, Jmeter & Appium
-    * Performed load test using Jmeter
+    * Conducted training sessions and workshops on Java, Selenium, Fluentlenium, Rest-Assured, JMeter & Appium
+    * Performed load test using JMeter
 
 **IdeaScale Bangladesh** | April 2016 - January 2020
 * **SQAE Team Lead** (January 2019 - December 2019)
@@ -62,7 +62,7 @@
 
 ## 👨‍🏫 Speaker & Trainer Highlights
 - 🧑‍🏫 **Founder & Trainer at SQA Learning Academy**
-- 🎙 Conducted seminars/workshops at:
+- 🎙 Conducted seminars and workshops at 15+ universities across Bangladesh:
   - Shahjalal University of Science and Technology
   - Jagannath University
   - RUET, IIUC, Leading University, DIU, PUST, ULAB, and more

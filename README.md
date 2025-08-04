@@ -62,6 +62,7 @@
 
 ## 👨‍🏫 Speaker & Trainer Highlights
 - 🧑‍🏫 **Founder & Trainer at SQA Learning Academy**
+- 🎓 Hosted over 25 free online webinars to promote knowledge in Manual Testing, Automation, Performance Testing, AI, and emerging tech trends—actively contributing to the growth of the SQA community in Bangladesh.
 - 🎙 Conducted seminars and workshops at 15+ universities across Bangladesh:
   - Shahjalal University of Science and Technology
   - Jagannath University

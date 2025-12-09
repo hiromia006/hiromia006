@@ -15,15 +15,16 @@
 
 ## 🔧 Core Skills
 
-- **Test Automation**: Selenium WebDriver, FluentLenium, Appium, REST-Assured, Postman, Karate etc
-- **Performance Testing**: JMeter, K6
-- **Languages**: Java, SQL
-- **Frameworks**: TestNG, Gradle
-- **Tools**: Git, Jenkins, Docker, Jira, YouTrack, etc
-- **Security Testing**: OWASP ZAP, sqlmap
-- **CI/CD**: Jenkins
-- **Databases**: MySQL, PostgreSQL, SQL Server
-- **Test Management Tools**: Zephyr Scale, TestCaseLab, TestLink & Test Collab
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rest%20Assured-%23007ACC.svg?style=flat-square&logo=rest-assured&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-%2343B02A.svg?style=flat-square&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%23009688.svg?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-%23005CA5.svg?style=flat-square&logo=jira&logoColor=white" />
 
 ---
 

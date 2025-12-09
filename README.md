@@ -18,6 +18,7 @@
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=postgresql&logoColor=white" />
 
   <!-- Test Automation -->
@@ -27,6 +28,7 @@
   <img src="https://img.shields.io/badge/REST%20Assured-%23007ACC.svg?style=flat-square&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Karate-%23000000.svg?style=flat-square&logo=karatelogic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-%2300B0FF.svg?style=flat-square&logo=playwright&logoColor=white" />
 
   <!-- Performance Testing -->
   <img src="https://img.shields.io/badge/JMeter-%23D22128.svg?style=flat-square&logo=apache-jmeter&logoColor=white" />
@@ -58,6 +60,7 @@
   <img src="https://img.shields.io/badge/TestLink-%23F08080.svg?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/TestCollab-%2300ACC1.svg?style=flat-square&logo=asana&logoColor=white" />
 </p>
+
 
 ---
 

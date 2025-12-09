@@ -16,15 +16,48 @@
 ## 🔧 Core Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=postgresql&logoColor=white" />
+
+  <!-- Test Automation -->
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rest%20Assured-%23007ACC.svg?style=flat-square&logo=rest-assured&logoColor=white" />
+  <img src="https://img.shields.io/badge/FluentLenium-%230081CB.svg?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Appium-%2343B02A.svg?style=flat-square&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20Assured-%23007ACC.svg?style=flat-square&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Karate-%23000000.svg?style=flat-square&logo=karatelogic&logoColor=white" />
+
+  <!-- Performance Testing -->
+  <img src="https://img.shields.io/badge/JMeter-%23D22128.svg?style=flat-square&logo=apache-jmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/K6-%23403362.svg?style=flat-square&logo=k6&logoColor=white" />
+
+  <!-- Frameworks & Build Tools -->
+  <img src="https://img.shields.io/badge/TestNG-%23FF8C00.svg?style=flat-square&logo=testng&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=flat-square&logo=gradle&logoColor=white" />
+
+  <!-- DevOps & Tools -->
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%23009688.svg?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-%23005CA5.svg?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTrack-%23000000.svg?style=flat-square&logo=youtrack&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+
+  <!-- Security Testing -->
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-%23000000.svg?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlmap-%23F7DF1E.svg?style=flat-square&logo=python&logoColor=black" />
+
+  <!-- Test Management Tools -->
+  <img src="https://img.shields.io/badge/Zephyr%20Scale-%2300A3E0.svg?style=flat-square&logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestCaseLab-%2300C853.svg?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestLink-%23F08080.svg?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestCollab-%2300ACC1.svg?style=flat-square&logo=asana&logoColor=white" />
+</p>
 
 ---
 
